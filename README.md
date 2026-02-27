@@ -5,6 +5,10 @@
 2021 環境を構築します。
 
 
+テンプレートはこちら：
+[thesis-template.zip](thesis-template.zip)
+
+
 Ubuntu 環境で TeX Live 2021 を使用し、
 卒論用 LaTeX 環境を構築する手順です。
 VSCode から PDF のビルドが可能になります。
