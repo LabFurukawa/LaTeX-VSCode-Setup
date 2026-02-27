@@ -28,7 +28,6 @@ VSCode から PDF のビルドが可能になります。
     ```
 
 3. 入った後、`ls`で `install-tl`があることを確認して、TeX(2021)をインストール
-    > ⚠️ 1行で実行してください
 
     ```bash
     sudo ./install-tl -repository http://ftp.math.utah.edu/pub/tex/historic/systems/texlive/2021/tlnet-final
@@ -52,7 +51,6 @@ VSCode から PDF のビルドが可能になります。
     ```
 
 2. 2021ver. に固定
-    > ⚠️ 1行で実行してください
 
     ```bash
     tlmgr option repository http://ftp.math.utah.edu/pub/tex/historic/systems/texlive/2021/tlnet-final
